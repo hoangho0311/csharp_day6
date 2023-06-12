@@ -1,0 +1,7 @@
+E:\SUMMER_2023\C#\csharp_day6\Read_write binary file\Read_write binary file\bin\Debug\Read_write binary file.exe.config
+E:\SUMMER_2023\C#\csharp_day6\Read_write binary file\Read_write binary file\bin\Debug\Read_write binary file.exe
+E:\SUMMER_2023\C#\csharp_day6\Read_write binary file\Read_write binary file\bin\Debug\Read_write binary file.pdb
+E:\SUMMER_2023\C#\csharp_day6\Read_write binary file\Read_write binary file\obj\Debug\Read_write binary file.csproj.AssemblyReference.cache
+E:\SUMMER_2023\C#\csharp_day6\Read_write binary file\Read_write binary file\obj\Debug\Read_write binary file.csproj.CoreCompileInputs.cache
+E:\SUMMER_2023\C#\csharp_day6\Read_write binary file\Read_write binary file\obj\Debug\Read_write binary file.exe
+E:\SUMMER_2023\C#\csharp_day6\Read_write binary file\Read_write binary file\obj\Debug\Read_write binary file.pdb
