@@ -1,0 +1,7 @@
+E:\SUMMER_2023\C#\csharp_day6\Assignment2_IColorable\Assignment2_IColorable\bin\Debug\Assignment2_IColorable.exe.config
+E:\SUMMER_2023\C#\csharp_day6\Assignment2_IColorable\Assignment2_IColorable\bin\Debug\Assignment2_IColorable.exe
+E:\SUMMER_2023\C#\csharp_day6\Assignment2_IColorable\Assignment2_IColorable\bin\Debug\Assignment2_IColorable.pdb
+E:\SUMMER_2023\C#\csharp_day6\Assignment2_IColorable\Assignment2_IColorable\obj\Debug\Assignment2_IColorable.csproj.AssemblyReference.cache
+E:\SUMMER_2023\C#\csharp_day6\Assignment2_IColorable\Assignment2_IColorable\obj\Debug\Assignment2_IColorable.csproj.CoreCompileInputs.cache
+E:\SUMMER_2023\C#\csharp_day6\Assignment2_IColorable\Assignment2_IColorable\obj\Debug\Assignment2_IColorable.exe
+E:\SUMMER_2023\C#\csharp_day6\Assignment2_IColorable\Assignment2_IColorable\obj\Debug\Assignment2_IColorable.pdb

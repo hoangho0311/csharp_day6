@@ -1,0 +1,14 @@
+E:\SUMMER_2023\C#\csharp_day6\Assignment1_Interface\Assignment1_Interface\bin\Debug\Assignment1_Interface.exe.config
+E:\SUMMER_2023\C#\csharp_day6\Assignment1_Interface\Assignment1_Interface\bin\Debug\Assignment1_Interface.exe
+E:\SUMMER_2023\C#\csharp_day6\Assignment1_Interface\Assignment1_Interface\bin\Debug\Assignment1_Interface.pdb
+E:\SUMMER_2023\C#\csharp_day6\Assignment1_Interface\Assignment1_Interface\obj\Debug\Assignment1_Interface.csproj.AssemblyReference.cache
+E:\SUMMER_2023\C#\csharp_day6\Assignment1_Interface\Assignment1_Interface\obj\Debug\Assignment1_Interface.csproj.CoreCompileInputs.cache
+E:\SUMMER_2023\C#\csharp_day6\Assignment1_Interface\Assignment1_Interface\obj\Debug\Assignment1_Interface.exe
+E:\SUMMER_2023\C#\csharp_day6\Assignment1_Interface\Assignment1_Interface\obj\Debug\Assignment1_Interface.pdb
+E:\SUMMER_2023\C#\csharp_day6\Assignment1_Resizeable\Assignment1_Interface\bin\Debug\Assignment1_Interface.exe.config
+E:\SUMMER_2023\C#\csharp_day6\Assignment1_Resizeable\Assignment1_Interface\bin\Debug\Assignment1_Interface.exe
+E:\SUMMER_2023\C#\csharp_day6\Assignment1_Resizeable\Assignment1_Interface\bin\Debug\Assignment1_Interface.pdb
+E:\SUMMER_2023\C#\csharp_day6\Assignment1_Resizeable\Assignment1_Interface\obj\Debug\Assignment1_Interface.csproj.AssemblyReference.cache
+E:\SUMMER_2023\C#\csharp_day6\Assignment1_Resizeable\Assignment1_Interface\obj\Debug\Assignment1_Interface.csproj.CoreCompileInputs.cache
+E:\SUMMER_2023\C#\csharp_day6\Assignment1_Resizeable\Assignment1_Interface\obj\Debug\Assignment1_Interface.exe
+E:\SUMMER_2023\C#\csharp_day6\Assignment1_Resizeable\Assignment1_Interface\obj\Debug\Assignment1_Interface.pdb
